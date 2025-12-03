@@ -89,7 +89,7 @@ projects focused on **modern electrical engineering + data-driven energy systems
 
 📧 **Email:** suhaibwork11@gmail.com  
 🌍 **Location:** Srinagar, J&K, India  
-🔗 **LinkedIn:** *Add your link here*  
+🔗 **LinkedIn:** *www.linkedin.com/in/suhaib-farooq-engineer*  
 
 ---
 
