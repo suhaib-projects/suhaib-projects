@@ -31,7 +31,6 @@ projects focused on **modern electrical engineering + data-driven energy systems
 - Averaged converter model + PWM control  
 - Block-level Simulink diagram  
 - Efficiency curves + irradiance data  
-🔗 *(Upload to GitHub and update link here)*
 
 ---
 
@@ -40,7 +39,6 @@ projects focused on **modern electrical engineering + data-driven energy systems
 - Averaged model simulation  
 - Switching/conduction loss estimation  
 - Harmonic analysis via FFT  
-🔗 *(Upload to GitHub and update link here)*
 
 ---
 
@@ -49,7 +47,6 @@ projects focused on **modern electrical engineering + data-driven energy systems
 - Gating signal generation  
 - Ideal inverter phase voltage simulation  
 - THD & harmonic comparison  
-🔗 *(Upload to GitHub and update link here)*
 
 ---
 
@@ -72,8 +69,7 @@ projects focused on **modern electrical engineering + data-driven energy systems
 ### 📈 **6. Electricity Load Forecasting (Python, ML)**
 **Tools:** Python, Pandas, Scikit-Learn, TensorFlow  
 - ARIMA, XGBoost, LSTM  
-- Real-world smart-meter datasets  
-🔗 *(Upload to GitHub and update link here)*
+- Real-world smart-meter datasets
 
 ---
 
